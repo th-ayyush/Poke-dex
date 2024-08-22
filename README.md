@@ -1,5 +1,4 @@
 # Poke-dex
-# Pokedex
 
 ##Pokedex is a comprehensive and interactive application that provides detailed information about various Pokémon. It serves as a digital encyclopedia for Pokémon enthusiasts, offering data on Pokémon species, abilities, evolutions, and more.
 
